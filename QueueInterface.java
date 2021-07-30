@@ -1,4 +1,3 @@
-package Unit4_Queue;
 
 public interface QueueInterface<E>
 {
